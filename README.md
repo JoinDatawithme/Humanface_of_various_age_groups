@@ -1,5 +1,6 @@
 
-![0429-Female-22](https://github.com/JoinDatawithme/Humanface_of_various_age_groups/assets/156652525/1e4a30b2-33bd-4fb0-9e1a-f49f811e82ff)
+![WechatIMG774](https://github.com/JoinDatawithme/Humanface_of_various_age_groups/assets/156652525/927a85ef-2cd6-44ab-bee5-de97e9a63959)
+
 
 📚 Dataset Introduction
 
