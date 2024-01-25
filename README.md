@@ -21,9 +21,6 @@ For more data inquiries, feel free to contact us 😄
 
 
 
-🤖 About Us: We are developers from China, dedicated to accelerating AI development with high-quality data.
-
-
-
 📮 Contact information: huawuque@join-intelligence.com
 
+🤖 About Us: We are developers from China, dedicated to accelerating AI development with high-quality data.
