@@ -11,8 +11,9 @@
 · The dataset includes 500 images of each gender, distributed across different age groups (1-10, 11-20, 21-30, 31-40, over 40) with 100 images for each group.
 
 
-
-This dataset is a sample of 1000 images from the full collection.
+This dataset is a sample of 1000 images from the full collection. You can get these data at 
+Google drive: https://drive.google.com/file/d/1EjnaNApHd4ZNKCtorRsXcIACQm7Fbxb5/view?usp=sharing
+huggingface: https://huggingface.co/datasets/JoinDatawithme/Humanface_of_various_age_groups/tree/main
 
 For more data inquiries, feel free to contact us 😄
 
